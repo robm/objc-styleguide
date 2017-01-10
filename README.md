@@ -9,7 +9,7 @@ Based on [Wonderful Objective-C style guide](https://github.com/markeissler/wond
 If-else braces:
 
 ```objective-c
-if(condition) {
+if (condition) {
     statement
 }
 else {
@@ -20,11 +20,11 @@ else {
 Loop braces:
 
 ```objective-c
-for(...) {
+for (...) {
     statement
 }
 
-while(...) {
+while (...) {
     statement
 }
 ```
